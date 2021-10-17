@@ -1,0 +1,5 @@
+.mypy_cache/
+code-id
+build/
+*.so
+
